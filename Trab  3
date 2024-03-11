@@ -1,0 +1,15 @@
+PYTHON
+print("Olá, mundo!")
+
+JAVA
+public class OlaMundo {
+    public static void main(String[] args) {
+        System.out.println("Olá, mundo!");
+    }
+}
+
+SWIFT
+print("Olá, mundo!")
+
+
+Python é uma linguagem interpretada, o que significa que pode ser um pouco mais lenta em comparação com o Java, é uma linguagem muito fácil com sintaxes simples projetadas que reduzem o custo e agilizam o fluxo de trabalho do codificador.A sintaxe da linguagem Swift é concisa e expressiva. Ela se baseia no melhor de C e Objective-C, sem nenhuma restrição de compatibilidade. Por fim, Java é uma linguagem de programação rápida, segura e confiável para codificar tudo. 
